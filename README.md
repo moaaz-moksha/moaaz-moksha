@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif" alt="Coding GIF">
+</p>
+
+<h1 align="center">سلام عليكم، أنا معاذ محمد</h1>
+<p align="center">
+  Full-Stack Developer | Flutter/Dart | Backend C# (.NET 8 & ASP.NET Core) | C++ | Python | SQL
 </p>
 
 <p align="center">
@@ -18,4 +23,29 @@
   <a href="https://www.facebook.com/iolardemartini" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
   </a>
+</p>
+
+---
+
+## 🛠️ المهارات
+
+- **Frontend / Mobile:** Flutter, Dart  
+- **Backend:** C#, .NET 8, ASP.NET Core  
+- **Programming Languages:** C++, Python, SQL  
+- **Databases:** MySQL, SQL Server, SQLite  
+
+---
+
+## 📫 تواصل معي
+
+- [LinkedIn](https://www.linkedin.com/in/iolardemartini)  
+- [Twitter](https://twitter.com/iolardemartini)  
+- [Instagram](https://instagram.com/iolarjr)  
+- [Medium](https://medium.com/@Demartini)  
+- [Facebook](https://www.facebook.com/iolardemartini)  
+
+---
+
+<p align="center">
+  شكراً لزيارتك 🌟
 </p>
