@@ -2,14 +2,14 @@
   <img src="https://github.com/demartini/demartini/blob/master/code.gif" alt="Coding GIF">
 </p>
 
-<h1 align="center">سلام عليكم، أنا معاذ محمد</h1>
+<h1 align="center">Hi there 👋, I'm Moaaz Mohamed</h1>
 <p align="center">
   Full-Stack Developer | Flutter/Dart | Backend C# (.NET 8 & ASP.NET Core) | C++ | Python | SQL
 </p>
 
 ---
 
-## 🛠️ المهارات
+## 🛠️ Skills
 
 - **Frontend / Mobile:** Flutter, Dart  
 - **Backend:** C#, .NET 8, ASP.NET Core  
@@ -18,7 +18,7 @@
 
 ---
 
-## 📫 تواصل معي
+## 📫 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moaaz-mohammed-b52525383?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
@@ -35,5 +35,5 @@
 ---
 
 <p align="center">
-  شكراً لزيارتك 🌟
+  🚀 Always learning, building, and improving. Thanks for visiting my profile! 🌟
 </p>
